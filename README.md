@@ -18,5 +18,5 @@ The Support group can be reached out to at [TRTECHGUIDE](https://t.me/trtrechgui
 ## How to setup on Heroku 
 For starters click on this button 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/TR-TECH-GUIDE-on-Youtube/Raya-v2.0) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TR-TECH-GUIDE-on-Youtube/Raya-v2.0) 
 
